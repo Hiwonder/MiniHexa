@@ -21,7 +21,7 @@ MiniHexa is equipped with AI capabilities including computer vision, voice inter
 
 ### Video Demos
 
-- [MiniHexa Product Introduction](https://www.youtube.com/watch?v=BYNRlQRvBf4)
+- [MiniHexa Introduction](https://www.youtube.com/watch?v=BYNRlQRvBf4)
 - [Hexapod miniHexa Meets Ultrasonic Power — Ready to Go?](https://www.youtube.com/shorts/Ahp4gRtIWlY)
 - [Explore Smarter Sensing with Hexapod miniHexa!](https://www.youtube.com/shorts/JSn-nrMnQPY)
 - [Master Hexapod miniHexa with PC Software Control!](https://www.youtube.com/shorts/OPfjU2Akzv8)
