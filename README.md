@@ -16,7 +16,17 @@ MiniHexa is equipped with AI capabilities including computer vision, voice inter
 
 ### Official Hiwonder
 - **Official Website**: [https://www.hiwonder.com/](https://www.hiwonder.com/)
+- **Online Tutorial**: [https://wiki.hiwonder.com/projects/miniHexa/en/latest/](https://wiki.hiwonder.com/projects/miniHexa/en/latest/)
 - **Technical Support**: support@hiwonder.com
+
+### Video Demos
+
+[![MiniHexa Demo](https://img.youtube.com/vi/BYNRlQRvBf4/0.jpg)](https://www.youtube.com/watch?v=BYNRlQRvBf4)
+
+- [Hexapod miniHexa Meets Ultrasonic Power — Ready to Go?](https://www.youtube.com/shorts/Ahp4gRtIWlY)
+- [Explore Smarter Sensing with Hexapod miniHexa!](https://www.youtube.com/shorts/JSn-nrMnQPY)
+- [Master Hexapod miniHexa with PC Software Control!](https://www.youtube.com/shorts/OPfjU2Akzv8)
+- [Meet miniHexa – a smart and fun entry-level hexapod robot!](https://www.youtube.com/shorts/dciMLGKGKoI)
 
 ## Key Features
 
