@@ -38,6 +38,10 @@ MiniHexa is equipped with AI capabilities including computer vision, voice inter
 - **Voice Interaction** - Natural language voice commands
 - **AI Voice Projects** - Voice-controlled applications
 
+<p align="center">
+  <img src="./sources/images/AI Voice Functions.png" alt="AI Voice Functions" width="600"/>
+</p>
+
 ### AI Large Model Integration
 - **Multimodal AI** - Large language model integration
 - **Embodied Intelligence** - AI-powered autonomous behavior
@@ -48,6 +52,10 @@ MiniHexa is equipped with AI capabilities including computer vision, voice inter
 - **Multi-directional Movement** - Forward, backward, turning
 - **Action Editor** - Custom action sequence creation
 - **Serial Communication** - UART-based control protocol
+
+<p align="center">
+  <img src="./sources/images/motion control.png" alt="Motion Control" width="600"/>
+</p>
 
 ## Hardware Configuration
 - **Controller**: ESP32-based microcontroller
